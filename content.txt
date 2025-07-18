@@ -9,3 +9,18 @@
     > debugging
     > easy to colaboration
 5. End to End project (Chatbook Class)
+    > Function Vs methods
+    > Magic methods or dunder methods
+    > self
+    > you cam create the attribute onside the class
+
+    > Encapsulation
+    > Getter and Setter
+    > Static methods
+
+5. Inheritance
+    > Inheritance Code Example
+    > Why Inheritance is needed?(code reuseability, parent has no access to child class)
+    > What gets Inherited? - Constructor, Non private attribute, Non private methods
+    > Constructor overloading & methods overloading
+    > Super Keywords (Super Keywords only used in child class),(Cannot access varibale or attribute ) used only inside child class

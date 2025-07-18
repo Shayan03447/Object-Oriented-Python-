@@ -15,5 +15,7 @@ class emplyee:
         print(f"employee is presenting the {topic}")
 # create an object/instance of class
 sam=emplyee()
-sam.presentation(topic='artifical intelligence')
-sam.travel(destination='lahore')
+sam.name="samkumar"
+print(sam.name)
+#sam.presentation(topic='artifical intelligence')
+#sam.travel(destination='lahore')
